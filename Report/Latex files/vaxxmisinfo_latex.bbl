@@ -1,0 +1,160 @@
+\begin{thebibliography}{21}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \expandafter\ifx\csname doi\endcsname\relax
+  \def\doi#1{doi:\discretionary{}{}{}#1}\fi \else
+  \expandafter\ifx\csname doi\endcsname\relax
+  \def\doi{doi:\discretionary{}{}{}\begingroup \urlstyle{rm}\Url}\fi \fi
+
+\bibitem[{Baclic et~al.(2020)Baclic, Tunis, Young, , Doan, Swerdfeger, and
+  Schonfeld}]{balic-2020}
+Baclic, Oliver, Matthew Tunis, Kelsey Young, , Coraline Doan, Howard
+  Swerdfeger, Justin Schonfeld. 2020.
+\newblock Challenges and opportunities for public health made possible by
+  advances in natural language processing.
+\newblock {\it Canada Communicable Disease Report\/}  161--168.
+
+\bibitem[{Brown et~al.(2018)Brown, Sung, Aleman, Moreno-Centeno, Purdie, and
+  McIntosh}]{brown-etall-2018}
+Brown, W.~Eric, Kisuk Sung, Dionne~M. Aleman, Erick Moreno-Centeno, Thomas~G.
+  Purdie, Chris~J. McIntosh. 2018.
+\newblock Guided undersampling classification for automated radiation therapy
+  quality assurance of prostate cancer treatment.
+\newblock {\it Medical Physics\/} .
+
+\bibitem[{CNET(2016)}]{cnet-2016}
+CNET. 2016.
+\newblock Why we study digital misinformation.
+\newblock
+  \url{https://cnets.indiana.edu/blog/2016/11/28/why-we-study-digital-misinformation/}.
+
+\bibitem[{Davis et~al.(2016)Davis, Varol, Ferrara, Flammini, and
+  Botorno}]{davis-2016}
+Davis, Clayton~Allen, Onur Varol, Emilio Ferrara, Alessandro Flammini,
+  Filippo~Menczer. Botorno. 2016.
+\newblock A system to evaluate social.
+\newblock {\it Proceedings of the 25th International Conference Companion on
+  World Wide Web\/} .
+
+\bibitem[{documentation(2020)}]{crummy-2020}
+documentation, Beautiful Soup~4.9.0. 2020.
+\newblock \url{https://www.crummy.com/software/BeautifulSoup/bs4/doc/}.
+
+\bibitem[{Dubé et~al.(2014)Dubé, Gagnon, Nickels, Jeram, and
+  MelanieSchuster}]{dube-gagnon-2014}
+Dubé, Eve, Dominique Gagnon, Emily Nickels, Stanley Jeram, MelanieSchuster.
+  2014.
+\newblock Mapping vaccine hesitancy—country-specific characteristics of a
+  global phenomenon.
+\newblock {\it Vaccine\/} {\bf 32} 6649--6654.
+
+\bibitem[{Dubé et~al.(2015)Dubé, Vivion, and MacDonald}]{dube-vivion-2015}
+Dubé, Eve, Maryline Vivion, Noni~E. MacDonald. 2015.
+\newblock Vaccine hesitancy, vaccine refusal and the anti-vaccine movement:
+  Influence, impact and implications.
+\newblock {\it Expert Review of Vaccines\/} {\bf 14} 99--117.
+
+\bibitem[{D’Andrea et~al.(2018)D’Andrea, Ducange, Bechini, Renda, and
+  Marcelloni}]{elenora-etal-2018}
+D’Andrea, Eleonora, Pietro Ducange, Alessio Bechini, Alessandro Renda,
+  Francesco Marcelloni. 2018.
+\newblock Expert systems with applications  209--226.
+
+\bibitem[{Garimella et~al.(2017)Garimella, Morales, Gionis, and
+  Mathioudakis}]{garimella-2017}
+Garimella, Kiran, Gianmarco De~Francisci Morales, Aristides Gionis, Michael
+  Mathioudakis. 2017.
+\newblock Balancing opposing views to reduce controversy.
+\newblock {\it Proceedings of the 10th ACM International Conference on Web
+  Search and Data Mining\/} .
+
+\bibitem[{Glez-Pena et~al.(2013)Glez-Pena, Lourenco, Lopez-Fernandez,
+  Reboiro-Jato, and Fdez-Riverola}]{glez-pena-etal-2013}
+Glez-Pena, Daniel, Analia Lourenco, Hugo Lopez-Fernandez, Miguel Reboiro-Jato,
+  Florentino Fdez-Riverola. 2013.
+\newblock Web scraping technologies in an api world.
+\newblock {\it Briefings in Bioinformatics\/} .
+
+\bibitem[{Hornsey et~al.(2018)Hornsey, Harris, and
+  Fielding}]{hornsey-harris-2018}
+Hornsey, Matthew~J., Emily~A. Harris, Kelly~S. Fielding. 2018.
+\newblock Relationships among conspiratorial beliefs, conservatism and climate
+  scepticism across nations.
+\newblock {\it Nature Climate Change\/} .
+
+\bibitem[{Islam et~al.(2020)Islam, Sarkar, Khan, Kamal, Hasan, Kabir, Yeasmin,
+  Islam, Chowdhury, Anwar, Chughtai, and Seale}]{islam-2020}
+Islam, Md~Saiful, Tonmoy Sarkar, Sazzad~Hossain Khan, Abu-Hena~Mostofa Kamal,
+  S.~M.~Murshid Hasan, Alamgir Kabir, Dalia Yeasmin, Mohammad~Ariful Islam,
+  Kamal Ibne~Amin Chowdhury, Kazi~Selim Anwar, Abrar~Ahmad Chughtai, Holly
+  Seale. 2020.
+\newblock Covid-19–related infodemic and its impact on public health: A
+  global social media analysis.
+\newblock {\it The American Journal of Tropical Medicine and Hygiene\/} .
+
+\bibitem[{J.Hornsey et~al.(2020)J.Hornsey, Lobera, and
+  CeliaDíaz-Catalánc}]{hornsey-lobera-2020}
+J.Hornsey, Matthew, Josep Lobera, CeliaDíaz-Catalánc. 2020.
+\newblock Vaccine hesitancy is strongly associated with distrust of
+  conventional medicine, and only weakly associated with trust in alternative
+  medicine.
+\newblock {\it Social Science and Medicine\/} .
+
+\bibitem[{Jiang et~al.(2017)Jiang, Feng, Song, Calix, Gupta, and
+  Bernard}]{jiang-2017}
+Jiang, Keyuan, Shichao Feng, Qunhao Song, Ricardo~A. Calix, Matrika Gupta,
+  Gordon~R. Bernard. 2017.
+\newblock Identifying tweets of personal health experience through word
+  embedding and lstm neural network.
+\newblock {\it Proceedings of the 11th International Workshop on Data and Text
+  Mining in Biomedical Informatics\/} .
+
+\bibitem[{Jung and Hu(2014)}]{jung-2014}
+Jung, Yoonsuh, Jianhua Hu. 2014.
+\newblock A k-fold averaging cross-validation procedure.
+\newblock {\it Journal of Nonparametric Statistics\/} .
+
+\bibitem[{Larson et~al.(2016)Larson, de~Figueiredo, Xiahong, Schulz, Verger,
+  Johnston, Cook, and Jones}]{larson-2016}
+Larson, Heidi~J., Alexandre de~Figueiredo, Zhao Xiahong, William~S. Schulz,
+  Pierre Verger, Iain~G. Johnston, Alex~R. Cook, Nick~S. Jones. 2016.
+\newblock The state of vaccine confidence 2016: Global insights through a
+  67-country survey.
+\newblock {\it EBioMedicine\/} .
+
+\bibitem[{Mønsted and Lehmann(2019)}]{monsted-2019}
+Mønsted, Bjarke, Sune Lehmann. 2019.
+\newblock Algorithmic detection and analysis of vaccine-denialist sentiment
+  clusters in social networks.
+\newblock {\it Cornell University\/} .
+
+\bibitem[{Piehowski et~al.(2013)Piehowski, Petyuk, Sandoval, Burnum, Kiebel,
+  Monroe, Anderson, David G.~Camp, and Smith}]{piehowski-etal-2013}
+Piehowski, Paul~D, Vladislav~A. Petyuk, John~D. Sandoval, Kristin~E. Burnum,
+  Gary~R. Kiebel, Matthew~E. Monroe, Gordon~A. Anderson, II~David G.~Camp,
+  Richard~D. Smith. 2013.
+\newblock Steps: A grid search methodology for optimized peptide identification
+  filtering of ms/ms database search results.
+\newblock {\it Proteomics\/} {\bf 13} 766--770.
+
+\bibitem[{Vosoughi et~al.(2018)Vosoughi, Roy, and Aral}]{vosoughi-2018}
+Vosoughi, Soroush, Deb Roy, Sinan Aral. 2018.
+\newblock The spread of true and false news online.
+\newblock {\it Science\/} .
+
+\bibitem[{WHO(2019)}]{WHO-top10-2019}
+WHO. 2019.
+\newblock Who’s top 10 threats to global health in 2019.
+\newblock
+  \url{https://www.who.int/vietnam/news/feature-stories/detail/ten-threats-to-global-health-in-2019}.
+
+\bibitem[{WHO(2020)}]{WHO-top10-2020}
+WHO. 2020.
+\newblock Who and unicef warn of a decline in vaccinations during covid-19.
+\newblock
+  \url{https://www.who.int/news-room/detail/15-07-2020-who-and-unicef-warn-of-a-decline-in-vaccinations-during-covid-19}.
+
+\end{thebibliography}

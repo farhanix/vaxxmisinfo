@@ -1,0 +1,45 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Literature Review}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data Analysis \& Reasoning}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Under \& Oversampling}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Social Media Web Scraping}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Grid Search \& K-Fold Cross Validation}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Data Acquisition}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The dataset}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Tweet Hydration}{7}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Data Pre-processing}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}JSON to Data Frame}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Web Scraping}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Text Cleaning}{10}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Data Annotation}{12}{section.5}%
+\contentsline {section}{\numberline {6}NLP \& Machine Learning Methods}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Sources of Measure}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Model Details}{16}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Model Training}{17}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Bag-of-words (BOW)}{20}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Term Frequency-Inverse Document Frequency (TF-IDF)}{20}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Model Results}{21}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Results Discussion \& Final Model Selection}{27}{subsection.6.7}%
+\contentsline {section}{\numberline {7}Deriving Insights}{29}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Dashboard}{29}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Global Calculated Fields}{31}{subsection.7.2}%
+\contentsline {paragraph}{Pos/neg/Neut}{31}{section*.2}%
+\contentsline {paragraph}{Label Description}{31}{section*.3}%
+\contentsline {subsection}{\numberline {7.3}Sheets Overview}{32}{subsection.7.3}%
+\contentsline {paragraph}{Sheet: Trend by time}{32}{section*.4}%
+\contentsline {paragraph}{Sheet: Number of Tweets by Country}{32}{section*.5}%
+\contentsline {paragraph}{Sheet: Users}{32}{section*.6}%
+\contentsline {paragraph}{Sheet: Most Retweeted Tweets}{32}{section*.7}%
+\contentsline {paragraph}{Sheet: Top Canadian Cities}{34}{section*.8}%
+\contentsline {subsection}{\numberline {7.4}Dashboard use cases}{34}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Conclusion \& Recommendations}{36}{section.8}%
+\contentsline {paragraph}{In conclusion}{36}{section*.9}%
+\contentsline {paragraph}{Several steps can be taken to further improve the machine learning model}{36}{section*.10}%
+\contentsline {paragraph}{More data}{36}{section*.11}%
+\contentsline {paragraph}{Dataset timeframe}{36}{section*.12}%
+\contentsline {paragraph}{Word embeddings and Neural Nets}{36}{section*.13}%
+\contentsline {paragraph}{Faster annotation process}{36}{section*.14}%
+\contentsline {paragraph}{Social network analysis}{37}{section*.15}%
+\contentsline {paragraph}{Other datasets and languages}{37}{section*.16}%
+\contentsline {section}{\numberline {9}Appendix}{38}{section.9}%
+\contentsline {paragraph}{Special Thanks}{38}{section*.17}%

@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: vaxxmisinfo_latex.aux
+The style file: ijocv081.bst
+Database file #1: vaxxmisinfo_bib.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in elenora-etal-2018
+You've used 21 entries,
+            3205 wiz_defined-function locations,
+            765 strings with 9883 characters,
+and the built_in function-call counts, 13122 in all, are:
+= -- 939
+> -- 887
+< -- 6
++ -- 305
+- -- 276
+* -- 969
+:= -- 2161
+add.period$ -- 82
+call.type$ -- 21
+change.case$ -- 196
+chr.to.int$ -- 21
+cite$ -- 22
+duplicate$ -- 978
+empty$ -- 811
+format.name$ -- 335
+if$ -- 2501
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 201
+newline$ -- 115
+num.names$ -- 84
+pop$ -- 475
+preamble$ -- 1
+purify$ -- 176
+quote$ -- 0
+skip$ -- 282
+stack$ -- 0
+substring$ -- 359
+swap$ -- 394
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 189
+warning$ -- 1
+while$ -- 71
+width$ -- 0
+write$ -- 262
+(There was 1 warning)
